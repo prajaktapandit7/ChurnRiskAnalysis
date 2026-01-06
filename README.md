@@ -2,7 +2,7 @@
 
 An interactive internal tool built in **Retool** designed to understand customer behavior, identify churn risk, and provide recommendations for targeting at risk properties. This project demonstrates high-level proficiency in data transformation, state management, and custom data visualizations.
 
-<img width="942" height="361" alt="db" src="https://github.com/user-attachments/assets/3bfa295a-8d7c-4038-9863-4b5624725286" />
+<img width="936" height="370" alt="db" src="https://github.com/user-attachments/assets/a5284ee4-7bea-45fb-9565-e60b5c4f76cc" />
 
 ---
 
