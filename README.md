@@ -1,4 +1,4 @@
-# Multi-Source Operations & Performance Dashboard
+# Strategic Risk Analysis Dashboard
 
 An interactive internal tool built in **Retool** designed to understand customer behavior, identify churn risk, and provide recommendations for targeting at risk properties. This project demonstrates high-level proficiency in data transformation, state management, and custom data visualizations.
 
