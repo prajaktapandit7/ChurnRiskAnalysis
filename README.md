@@ -35,10 +35,4 @@ An interactive internal tool built in **Retool** designed to understand customer
 5. **Clear Filters:** Use the "Reset" button to return to the full dataset view.
 
 ---
-<iframe 
-  src="https://prajaktapandit.retool.com/embedded/public/85359702-1261-4c8b-b509-c0d5fe6017c8" 
-  width="100%" 
-  height="800px"
-  sandbox="allow-scripts allow-same-origin allow-popups allow-forms"
-  style="border:none;">
-</iframe>
+[View Live Dashboard](https://prajaktapandit.retool.com/embedded/public/85359702-1261-4c8b-b509-c0d5fe6017c8)
